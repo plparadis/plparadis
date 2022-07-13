@@ -1,7 +1,7 @@
 👋 Hi, I’m @plparadis
 
 I currently work as a Project Engineer at Ecosystem Energy Services USA Inc. 
-I'm based out of the Boston office but lives and get to work on projects spread across the New England area. 
+I'm based out of the Boston office but lives in Vermont and get to work on projects spread across the New England area. 
 I specialize myself in energy simulations of complex systems in environments such as university campuses or hospitals. 
 I hold a PhD in mechanical engineering from École de Technologie Supérieure of Montreal.
 
