@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/brand/plparadis-logo.png" width="320" alt="PLParadis mountain, adjustable wrench, and thermal airflow logo">
+  <img src="assets/brand/plparadis-logo-green.png" width="320" alt="PLParadis mountain and adjustable-wrench logo">
 </p>
 
 ## Mechanical engineering, building energy and practical tools
