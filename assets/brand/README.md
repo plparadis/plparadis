@@ -13,7 +13,8 @@ The mark combines three elements:
 
 ## Files
 
-- `plparadis-logo.png`: transparent high-resolution master
+- `plparadis-logo.svg`: scalable transparent master
+- `plparadis-logo.png`: transparent high-resolution raster version
 - `plparadis-avatar-512.png`: square GitHub and social avatar
 - `favicon-32.png`: 32 px browser icon
 - `favicon-16.png`: 16 px browser icon

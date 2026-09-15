@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">PLParadis mountain and adjustable wrench</title>
+  <desc id="desc">An amber adjustable wrench interlocked with a dark-green angular mountain.</desc>
+  <defs>
+    <mask id="wrench-mask">
+      <rect width="1200" height="800" fill="black"/>
+      <path fill="white" d="M65 665Q43 643 65 621L472 214Q505 181 552 190L614 202L550 266L624 340L688 276L700 338Q709 385 676 418L269 825Q247 847 225 825Z"/>
+      <rect x="100" y="650" width="250" height="56" rx="28" transform="rotate(-45 225 678)" fill="black"/>
+    </mask>
+  </defs>
+
+  <path fill="#183A32" d="M505 405L722 188L1160 626L1042 744L832 534L721 645L610 534L557 587L445 475Z"/>
+  <path fill="#FFAF31" mask="url(#wrench-mask)" d="M0 0H1200V800H0Z"/>
+  <g fill="#183A32" transform="rotate(-45 535 333)">
+    <rect x="480" y="303" width="24" height="60" rx="12"/>
+    <rect x="523" y="303" width="24" height="60" rx="12"/>
+    <rect x="566" y="303" width="24" height="60" rx="12"/>
+  </g>
+</svg>
