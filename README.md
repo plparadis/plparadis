@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/brand/plparadis-logo.png" width="320" alt="PLParadis mountain, adjustable wrench, and thermal airflow logo">
+</p>
+
 👋 Hi, I’m @plparadis
 
 I currently work as a Project Engineer at Ecosystem Energy Services USA Inc. 
