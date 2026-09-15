@@ -2,16 +2,21 @@
   <img src="assets/brand/plparadis-logo.png" width="320" alt="PLParadis mountain, adjustable wrench, and thermal airflow logo">
 </p>
 
-👋 Hi, I’m @plparadis
+## Mechanical engineering, building energy and practical tools
 
-I currently work as a Project Engineer at Ecosystem Energy Services USA Inc. 
-I'm based out of the Boston office but lives in Vermont and get to work on projects spread across the New England area. 
-I specialize myself in energy simulations of complex systems in environments such as university campuses or hospitals. 
-I hold a PhD in mechanical engineering from École de Technologie Supérieure of Montreal.
+I’m Pierre-Luc Paradis, a Senior Design Engineer at Ecosystem. I work on energy efficiency, HVAC, heat-transfer and refrigeration systems for institutional and commercial buildings, primarily across Québec, Ontario and the northeastern United States.
 
-I mainly use Python to develop small tools and carry out calculations and energy simulations.
+I grew up on a dairy farm in Mont-Carmel, Québec, near Kamouraska. I studied mechanical engineering in Rimouski before completing a master’s degree and PhD at École de technologie supérieure in Montréal. My graduate work focused on solar energy, heat transfer and transcritical CO₂ heat-pump systems.
 
-you can reach me on my work email: plparadis@ecosystem-energy.com or my personal email: pierre_lucparadis@hotmail.com
+I now live in rural Vermont. My work combines mechanical design, building-system analysis, measurement and verification, controls, commissioning, and the development of practical Python tools that make engineering workflows faster and more repeatable.
+
+### Current interests
+
+- High-performance HVAC and heat-recovery systems
+- Building energy analysis and operational optimization
+- Heat pumps, refrigeration and thermal storage
+- Measurement, verification and data-quality workflows
+- Python, automation and open-source engineering tools
 
 <!---
 plparadis/plparadis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
